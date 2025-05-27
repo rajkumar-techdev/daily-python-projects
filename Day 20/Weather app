@@ -1,0 +1,11 @@
+Get Current weather information(temperature,humidity,description) for any city using an API
+
+Features:
+*Input city name from user
+*Fetch live weather data from OpenWeatherMap
+*Display:
+    *Temperature(in celsius)
+    *Weather description(like cloudy,rainy)
+    *Humidity
+
+*Clean and readable output

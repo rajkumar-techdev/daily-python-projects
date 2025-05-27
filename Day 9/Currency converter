@@ -1,0 +1,7 @@
+Convert Indian Rupees to other currencies abd vice versa using static rates
+
+Features:
+  *User selects conversion type
+  *Enters amount
+  *Gets converted amount
+  *Fixed exchange rates

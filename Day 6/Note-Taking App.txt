@@ -1,0 +1,11 @@
+create a simple app where the user can:
+
+*Write a note
+*Save  it to a file
+*View all saved notes
+
+#Countdown Timer
+
+create a simple countdown timer the lets the user set a time(in seconds),
+then counts down to 0 with a message
+

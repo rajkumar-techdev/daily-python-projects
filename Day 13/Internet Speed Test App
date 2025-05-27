@@ -1,0 +1,7 @@
+check and display your current download and upload speed using python
+
+Library:
+Speedtest
+
+#Install
+pip install speedtest=cli

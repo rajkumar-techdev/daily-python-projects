@@ -1,0 +1,14 @@
+Generate QR code for any text,URL ,or message using python
+
+#Library
+QR Code
+
+#Install
+pip install qrcode
+
+Features:
+
+*User Input for Data
+*User Input for Filename
+*QR Code Generation
+*Save Image file

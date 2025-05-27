@@ -1,0 +1,9 @@
+create a game where the user play Rock,Paper,Scissor
+against the computer
+
+
+Features:
+*User vs computer gameplay
+*Radnom choice for computer
+*Winner decision logic
+*Input Validation

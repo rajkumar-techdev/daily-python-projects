@@ -1,0 +1,10 @@
+Download Youtube video using a simple python script
+
+
+#Library:
+*pytube
+
+
+#Install
+
+pip install pytube

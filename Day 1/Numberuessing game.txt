@@ -1,0 +1,15 @@
+#Number Guessing Game on May 08th 2025
+
+
+create a simple game where the computer randomly
+selects a number from 1 to 100 and user has to guess it.
+The Program should give hints like "Too high" or "Too Low"
+until the user guesss correctly
+
+
+Features:
+
+*Random number generation
+*User input
+*Loops and conditionals
+*Number of attempts tracking

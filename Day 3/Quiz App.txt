@@ -1,0 +1,8 @@
+Bulid a simple quiz game where the users answers mcq's and 
+get a score at the end
+
+Features:
+*Display one Question at a time
+*Take user input(A/B/C/D)
+*Show the correct answers if wrong
+*Track score

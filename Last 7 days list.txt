@@ -1,0 +1,26 @@
+Day 1:
+Number Guessing game
+
+Day 2:
+Simple calculator
+To-Do list
+
+Day 3:
+Quiz App
+
+Day 4:
+None
+
+Day 5:
+Random Password generator
+
+
+Day 6:
+Countdown Timer
+Note Taking App
+
+Day 7:
+Rock,Paper and Scissor
+
+Day 8:
+Password Strength

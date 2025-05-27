@@ -1,0 +1,8 @@
+create a simple contact book that lets you add,view and
+search contacts
+
+Features:
+*Add a new contact(name,phone,email)
+*view all saved contacts
+*search a contact by name
+*simple menu system
