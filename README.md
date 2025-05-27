@@ -54,3 +54,11 @@ This repository is my personal challenge to build **one Python mini project ever
 
 ## 📁 Folder Structure
 
+## 🔔 Stay Updated
+
+I’m building and uploading **one Python project every day**.
+
+👉 **Follow my GitHub profile** to stay updated with daily projects:  
+[github.com/rajkumar-techdev](https://github.com/rajkumar-techdev)
+
+Feel free to explore, clone, and get inspired — let’s grow together in Python! 🚀
