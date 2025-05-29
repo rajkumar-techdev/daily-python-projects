@@ -1,0 +1,13 @@
+Merge Multiple PDF's into Single PDF using python
+
+Features:
+*Select Multiple PDF Files
+* Merge them in the order yyou choose
+*Output a single merged file
+*CLI-Based
+
+Requirements:
+
+Install pypdf2:
+
+pip install PyPDF2
