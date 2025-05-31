@@ -1,0 +1,6 @@
+convert any text input into spoken audio using python
+
+Features:
+*convert typed text to speech
+*Play the spoken output automatically
+*Save the audio as an MP3 File
