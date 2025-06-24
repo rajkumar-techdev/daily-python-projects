@@ -1,0 +1,16 @@
+Build a simple assistant that listens to your voice and
+performs actions like:
+
+*Searching Wikipedia
+*Opening Websites
+*Telling the time
+*Speaking back a greeting
+
+Features:
+    *Voice Input(using microphone)
+    *Text-to-speech responses
+    *Perform basics tasks(open google,search wikipedia,tell)
+
+Requirements:
+    *pip install pyaudio
+    *pip install speechrecognition pyttsx3 wikipedia
