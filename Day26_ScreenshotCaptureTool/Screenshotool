@@ -1,0 +1,11 @@
+create a simple python tool to take screenshots and save then
+with timestamps or custom names
+
+Features:
+    *Capture Full Screenshot
+    *save with custom name or timestamp
+    *simple cli Integration
+    *optional delay before screenshot
+
+Requirements:
+    *pip install pyautogui
