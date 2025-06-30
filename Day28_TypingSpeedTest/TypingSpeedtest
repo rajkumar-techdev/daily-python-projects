@@ -1,0 +1,8 @@
+Measure how fast yyou can type a sentence-
+calculate words per minute (WPM) and accuracy
+
+Features:
+    *Random sentence for typing
+    *Timer starts when you begin typing
+    *calculate WPM and accuracy
+    *shows times taken and error count
