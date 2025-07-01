@@ -1,0 +1,10 @@
+Take a large block of text and generate a short,meaningful summary using NLP
+
+Features:
+    *Paste or type long text
+    *Returns a clean summary in 2-3 sentences
+    *CLI-based,lightweight
+    *Useful for articles,notes,documents,etc
+
+Requirements:
+pip install sumy
