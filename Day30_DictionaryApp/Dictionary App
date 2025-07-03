@@ -1,0 +1,7 @@
+Build a CLI dictionary app that gives the meaning of any english word using a free API
+
+Features:
+    *Ask user to enter a word
+    *Fetch the meaning from a dictionary api
+    *Show definitions clearly
+    *Handles word not found errors
