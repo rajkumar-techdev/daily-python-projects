@@ -1,0 +1,10 @@
+convert any photo into a pencil sketch using python
+
+Features:
+    *convert a colored image into pencil sketch
+    *save the sketch image
+    *works for any image(.jpg,.png)
+    *Great intro to image processing
+
+Requirements:
+    pip install opencv-python
