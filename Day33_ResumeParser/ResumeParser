@@ -1,0 +1,12 @@
+Extract key details (name,email,phone,skills) from resume pdf
+
+Features:
+    *Read and extract text from .pdf
+    *Use regex to pull name,phone,email
+    *List common skills found in resume
+    *super useful for building HR tools or automation
+
+
+Requirements:
+    pip install pdfplumber
+
