@@ -1,0 +1,10 @@
+Translate text from one language to another using a simple CLI
+
+Features:
+    *Translate any sentence to your target sentence
+    *supports over 100 Languages
+    *Detects source language automatically
+    *Fast and beginner friendly
+
+Requirements:
+    pip install googletrans==4.0.0=rc1
